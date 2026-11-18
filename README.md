@@ -88,6 +88,3 @@ Métodos Numéricos
 
 Víctor Hugo Vásquez Herrera
 
-## Actividad
-
-Unidad 6: Resolución Numérica de EDOs.
